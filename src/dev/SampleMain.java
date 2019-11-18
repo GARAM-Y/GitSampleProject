@@ -1,5 +1,8 @@
 package dev;
 
+/**
+ * feature/epic-03
+ */
 public class SampleMain {
     static void main(String[] args){
 
@@ -8,6 +11,5 @@ public class SampleMain {
 
         System.out.println(str);
         System.out.println(enStr);
-        System.out.println("test");
     }
 }
