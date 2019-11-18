@@ -8,5 +8,6 @@ public class SampleMain {
 
         System.out.println(str);
         System.out.println(enStr);
+        System.out.println("test");
     }
 }
